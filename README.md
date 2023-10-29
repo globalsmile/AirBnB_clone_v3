@@ -157,6 +157,5 @@ No known bugs at this time.
 Badmus Mohammed Gbolahan - [Github](https://github.com/globalsmile) / [Twitter](https://twitter.com/_globalsmile)  
 Etinosa Noma-Osaghae - [Github](https://github.com/nomaprof) / [Twitter](https://twitter.com/nomaprof)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
